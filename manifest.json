@@ -6,5 +6,5 @@
   "description": "Hide notes with user-defined tags from the File Explorer and optionally exclude them from the Graph and Local Graph.",
   "author": "Marc-Antoine Willy",
   "authorUrl": "https://github.com/marcantoinewilly",
-  "isDesktopOnly": true
+  "isDesktopOnly": false
 }
