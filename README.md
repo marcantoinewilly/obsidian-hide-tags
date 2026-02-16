@@ -1,0 +1,1 @@
+# obsidian-hide-tags
