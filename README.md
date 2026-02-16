@@ -1,4 +1,4 @@
-# Hide Tagged Notes (Obsidian Plugin)
+# Hide Tags in Obsidian
 
 This plugin lets you configure custom tags to hide. When hide mode is enabled, notes matching any configured tag are hidden in Obsidian's File Explorer and optionally filtered out of Graph views.
 
