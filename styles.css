@@ -1,0 +1,90 @@
+body.hide-tags-enabled .nav-file.hide-tags-hidden-file,
+body.hide-tags-enabled .nav-file-title.hide-tags-hidden-file {
+  display: none !important;
+}
+
+.hide-tags-settings-view > p.setting-item-description {
+  margin: 4px 0 14px;
+}
+
+.hide-tags-settings-view > .setting-item {
+  margin-bottom: 14px;
+  padding: 14px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 12px;
+  background: var(--background-secondary);
+}
+
+.hide-tags-setting-stack {
+  display: block;
+}
+
+.hide-tags-setting-stack .setting-item-info {
+  max-width: none;
+  margin-bottom: 12px;
+}
+
+.hide-tags-setting-stack .setting-item-control {
+  display: block;
+  width: 100%;
+}
+
+.hide-tags-manager {
+  width: 100%;
+}
+
+.hide-tags-input-row {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.hide-tags-input-row input {
+  width: 100%;
+}
+
+.hide-tags-chip-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.hide-tags-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 9px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 999px;
+  background: var(--background-primary-alt);
+}
+
+.hide-tags-chip-label {
+  font-size: var(--font-ui-small);
+}
+
+.hide-tags-chip-remove {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 16px;
+  height: 16px;
+  padding: 0;
+  border: none;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--text-faint);
+  cursor: pointer;
+}
+
+.hide-tags-chip-remove-subtle svg {
+  width: 10px;
+  height: 10px;
+  stroke-width: 2.2;
+}
+
+.hide-tags-chip-remove:hover {
+  color: var(--text-muted);
+  background: var(--background-modifier-hover);
+}
