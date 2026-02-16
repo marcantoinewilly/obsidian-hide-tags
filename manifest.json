@@ -1,0 +1,10 @@
+{
+  "id": "hide-tags",
+  "name": "Hide Tags",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Hide files by one or more tags in Explorer and Graph views.",
+  "author": "Marc-Antoine Willy",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
