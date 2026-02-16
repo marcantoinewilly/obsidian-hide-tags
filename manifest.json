@@ -3,8 +3,8 @@
   "name": "Hide Tags",
   "version": "1.0.0",
   "minAppVersion": "1.5.0",
-  "description": "Hide files by one or more tags in Explorer and Graph views.",
+  "description": "Hide notes with user-defined tags from the File Explorer and optionally exclude them from the Graph and Local Graph.",
   "author": "Marc-Antoine Willy",
   "authorUrl": "https://github.com/marcantoinewilly",
-  "isDesktopOnly": false
+  "isDesktopOnly": true
 }
