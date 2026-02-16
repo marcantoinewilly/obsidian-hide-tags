@@ -5,6 +5,6 @@
   "minAppVersion": "1.5.0",
   "description": "Hide files by one or more tags in Explorer and Graph views.",
   "author": "Marc-Antoine Willy",
-  "authorUrl": "",
+  "authorUrl": "https://github.com/marcantoinewilly",
   "isDesktopOnly": false
 }
